@@ -24,35 +24,17 @@
 
 	<developers>
 		<developer>
-			<name>Madhan Sadasivam</name>
-			<email>msadasivam@apigee.com</email>
+			<name> bhagya </name>
+			<email>g.bhagya9@gmail.com</email>
 			<organization>Apigee Corporation</organization>
 			<organizationUrl>http://www.apigee.com</organizationUrl>
-		</developer>
-		<developer>
-			<name>Prashanth K S</name>
-			<email>psubrahmanyam@apigee.com</email>
-			<organization>Apigee Corporation</organization>
-			<organizationUrl>http://www.apigee.com</organizationUrl>
-		</developer>
-		<developer>
-			<name>Meghdeep Basu</name>
-			<email>mbasu@apigee.com</email>
-			<organization>Apigee Corporation</organization>
-			<organizationUrl>http://www.apigee.com</organizationUrl>
-		</developer>
-		<developer>
-			<name>Sai Saran Vaidyanathan</name>
-			<email>ssvaidyanathan@google.com</email>
-			<organization>Google</organization>
-			<organizationUrl>www.google.com</organizationUrl>
 		</developer>
 	</developers>
 
 	<scm>
-		<url>git@github.com:apigee/apigee-config-maven-plugin.git</url>
-		<connection>scm:git:https://github.com/apigee/apigee-config-maven-plugin.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/apigee/apigee-config-maven-plugin.git</developerConnection>
+		<url>https://github.com/Guddumbhagyasri/Maven.git</url>
+		<connection>scm:git:https://github.com/Guddumbhagyasri/Maven.git</connection>
+		<developerConnection>scm:git:ssh:https://github.com/Guddumbhagyasri/Maven.git</developerConnection>
 	</scm>
 
 	<properties>
