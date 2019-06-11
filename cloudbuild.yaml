@@ -3,9 +3,3 @@ steps:
   entrypoint: 'bash'
   args: ['-c', 'mvn install -Ptest -Dusername=g.bhagya9@gmail.com -Dpassword=ADbhagi9@$']
   dir: 'HelloWorld'
-  secretEnv: ['PASSWORD']
-
-
-secrets:
-  secretEnv:
-    PASSWORD: ADbhagi9@$
