@@ -1,5 +1,5 @@
 steps:
 - name: 'gcr.io/cloud-builders/mvn'
   entrypoint: 'bash'
-  args: ['-c', 'mvn install -Ptest -Dusername=g.bhagya9@gmail.com -Dpassword=ADbhagi9@$']
+  args: ['-c', 'mvn install -Ptest-compile  -Dusername=g.bhagya9@gmail.com -Dpassword=ADbhagi9@$']
   dir: 'HelloWorld'
