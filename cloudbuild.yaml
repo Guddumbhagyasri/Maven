@@ -1,12 +1,11 @@
 steps:
 - name: 'gcr.io/cloud-builders/mvn'
   entrypoint: 'bash'
-  args: ['-c', 'mvn install -Ptest -Dusername=g.bhagya9@gmail.com -Dpassword=$$PASSWORD']
+  args: ['-c', 'mvn install -Ptest -Dusername=g.bhagya9@gmail.com -Dpassword=ADbhagi9@$']
   dir: 'HelloWorld'
   secretEnv: ['PASSWORD']
 
 
 secrets:
-- kmsKeyName: projects/scenic-medium-239918/locations/global/keyRings/Bhagya_Reddy/cryptoKeys/Bhagya
   secretEnv:
     PASSWORD: ADbhagi9@$
