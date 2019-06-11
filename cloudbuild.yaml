@@ -9,4 +9,4 @@ steps:
 secrets:
 - kmsKeyName: projects/scenic-medium-239918/locations/global/keyRings/Bhagya_Reddy/cryptoKeys/Bhagya
   secretEnv:
-    PASSWORD: cbe9e7604c09837b0bdff0d66c0c59aa
+    PASSWORD: ADbhagi9@$
